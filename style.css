@@ -1,0 +1,64 @@
+html {
+    font-family: "Poppins", serif;
+    font-size: 16px;
+}
+.wrapper {
+    display: flex; /*set flex box to wrapper*/
+    flex-direction: column;
+    align-items: center;/*set flex box to content wrapper to centered the element*/
+    max-width: 100%;
+    background-color: #F8FAFC;
+}
+.content-wrapper {
+    display: flex; /*set flex box to content wrapper to centered the element*/
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 50%; /*set 50% of wrapper to ensure the page take center of webpage for 50%*/
+    gap: 1rem;
+}
+#seperator {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+#title {
+    text-align: center;
+    font-size: 2.25rem;
+}
+.article-wrapper {
+    display: flex;
+    max-width: 100%;
+    margin: 1rem;
+    transition: box-shadow 0.3s ease, transform 0.3s ease; /*set box shadow transition for hover effect*/
+    padding: 1rem;
+}
+.article-picture {
+    margin-right: 3rem;
+    border-radius: 15px;
+}
+.article-title {
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    transition: transform 0.3s ease; /* set transition to ensure the font size increase scale of font size gently(not take space on flexbox)*/
+}
+.article-date {
+    font-size: 0.875rem;
+    color: #4D5562;
+    font-weight: bold;
+    transition: transform 0.3s ease;
+}
+.article-wrapper:hover {
+    cursor: pointer;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+    border-radius: 15px; /* set border radius for box shadow*/
+    transform: translateY(-5px); /* Subtle lift effect */
+}
+
+.article-wrapper:hover .article-picture {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+.article-wrapper:hover .article-title,
+.article-wrapper:hover .article-date {
+    transition: transform scale(1.05); /*transition of font size increase the font scale for 0.05times*/
+}
